@@ -1,0 +1,15 @@
+woah = Instance.new('Part', game.Workspace)
+woah.Name = "bruh"
+woah.Size = Vector3.new(10,.2,10)
+woah.Color = Color3.fromRGB(100,166,200)
+woah.Anchored = true
+woah.Transparency = 1--set to whatever lol
+woah.CFrame = CFrame.new(-152, 123, 76)
+
+bruh = Instance.new('Part', game.Workspace)
+                                    bruh.Name = "bruh"
+                                    bruh.Size = Vector3.new(10000,.2,1000)
+                                    bruh.Color = Color3.fromRGB(100,166,200)
+                                    bruh.Anchored = true
+                                    bruh.Transparency = 1 --set to whatever lol
+                                    bruh.CFrame = CFrame.new(-79, 103, 6)
